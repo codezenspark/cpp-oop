@@ -7,6 +7,6 @@ int add(int a , int b){
 }
 int main(){
     int sum = 0;
-    sum = add(34,23);
+    sum = add(2,3);
     cout<<sum;
 }
